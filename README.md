@@ -3,6 +3,7 @@
 
  call me nika
 
-# I am in
+# 自己紹介
 
  こんにちは
+ よろしく
